@@ -18,5 +18,7 @@ We finally had a database of all our songs and the audio features.
 
 Finally we built a program that allows users input a song and the artist. The inputted music is then compared to songs in our database and finally returns a similar tune in our database
 
-# Libraries used -> Pandas, numpy, beautifulsoup spotipy, json , spotipy.oauth2 ,time, pickle,prettytable.
+# Libraries used 
+
+Pandas, numpy, beautifulsoup spotipy, json , spotipy.oauth2 ,time, pickle,prettytable.
 
